@@ -1,0 +1,12 @@
+{
+  "name": "pickle-js",
+  "version": "1.0.0",
+  "main": "./src/pickle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["pickle"],
+  "author": "Nihal Kenkre",
+  "license": "ISC",
+  "description": "Unpickle a pickled Python object into a actionable JSON string"
+}
